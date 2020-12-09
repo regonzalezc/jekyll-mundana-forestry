@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Acerca de Movimiento Libertadores
-author: Rafael Gonzalez
+author: jane
 image: "/assets/images/mundana-forestry-cms.jpg"
 
 ---
