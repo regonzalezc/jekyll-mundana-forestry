@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Acerca de Movimiento Libertadores
-author: jane
+author: Sal
 image: "/assets/images/mundana-forestry-cms.jpg"
 
 ---
