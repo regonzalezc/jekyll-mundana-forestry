@@ -10,7 +10,6 @@ include:
 - _pages
 permalink: "/:title/"
 plugins:
-- jekyll-menu
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-paginate
@@ -31,7 +30,5 @@ authors:
     bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet
-defaults:
-- scope: ''
-  values: ''
+defaults: []
 paginate: "10"
