@@ -1,8 +1,9 @@
 ---
 layout: post
-categories: []
+categories:
+- jeckyll
 title: Creando un Nuevo Draft
-author: Sal
+author: jane
 image: "/assets/images/demo1.jpg"
 
 ---
